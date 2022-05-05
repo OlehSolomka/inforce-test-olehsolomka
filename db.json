@@ -1,0 +1,137 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imageUrl": "some image url",
+      "name": "PEPSI",
+      "count": 5,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        {
+          "id": 1,
+          "productId": 1,
+          "description": "some text here",
+          "date": "14:00 22.08.2021"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "imageUrl": "some image url",
+      "name": "COCA COLA",
+      "count": 22,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        {
+          "id": 1,
+          "productId": 2,
+          "description": "some text here",
+          "date": "14:00 22.08.2021"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "imageUrl": "some image url",
+      "name": "FANTA",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        {
+          "id": 1,
+          "productId": 15,
+          "description": "some text here",
+          "date": "14:00 22.08.2021"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "imageUrl": "some image url",
+      "name": "SPRITE",
+      "count": 20,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        {
+          "id": 1,
+          "productId": 4,
+          "description": "some text here",
+          "date": "14:00 22.08.2021"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "imageUrl": "some image url",
+      "name": "SPRITE LITE",
+      "count": 20,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        {
+          "id": 1,
+          "productId": 5,
+          "description": "some text here",
+          "date": "14:00 22.08.2021"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "imageUrl": "some image url",
+      "name": "MIRINDA",
+      "count": 20,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        {
+          "id": 1,
+          "productId": 6,
+          "description": "some text here",
+          "date": "14:00 22.08.2021"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "imageUrl": "some image url",
+      "name": "BORJOMI",
+      "count": 20,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        {
+          "id": 1,
+          "productId": 7,
+          "description": "some text here",
+          "date": "14:00 22.08.2021"
+        }
+      ]
+    }
+  ]
+}
